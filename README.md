@@ -23,7 +23,7 @@ To run any of the programs, you need to have a C++ compiler installed on your sy
 g++ temperature_converter.cpp -o temperature_converter
 ./temperature_converter
 
-## Credits
+### Credits
 
 All programs in this repository are created by Zul-Qarnain. Feel free to use, modify, and distribute these programs according to the terms of the [LICENSE](LICENSE) file.
 
