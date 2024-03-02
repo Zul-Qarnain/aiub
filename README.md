@@ -6,12 +6,7 @@ Welcome to the Introduction to Programming Lab repository! This repository conta
 
 This repository serves as a collection of programs written during the Introduction to Programming Lab. Each program addresses specific tasks and concepts covered in the lab sessions.
 
-## Contents
-1.**Largest and Smallest:** A C++ program that determines the largest and smallest numbers among three integers.
-2. **Temperature Converter:** A C++ program that converts temperature from Celsius to Fahrenheit.
-3. **Triangle Classifier:** A C++ program that classifies triangles based on their side lengths.
-4. **Vowel or Consonant:** A C++ program that determines whether a character input is a vowel or consonant.
-5. **Age Group Classifier:** A C++ program that classifies a person into different age groups based on their age input.
+
 
 ## Usage
 
