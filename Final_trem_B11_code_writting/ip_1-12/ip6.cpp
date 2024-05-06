@@ -29,9 +29,9 @@ int main(void)
         getline(cin, E[i].name);
         cout << "\n";
     }
-    for (int i = 0; i < 3; i++) 
+    for (int j = 0; j < 3; j++) 
     {
-        cout << "INFORMATION FOR Employee " << i + 1 << "\n";
+        cout << "INFORMATION FOR Employee " << j + 1 << "\n";
         E[i].show();
         cout << "\n";
     }
